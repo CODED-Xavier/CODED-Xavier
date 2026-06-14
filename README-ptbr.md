@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="./README.md">🇧🇷 Leia em Português</a> | <a href="./README-br.md">🇺🇸 Read in English</a>
+  <a href="./README.md">🇧🇷 Leia em Português</a> | <a href="./README-ptbr.md">🇺🇸 Read in English</a>
 </div>
 
 # CODED by Xavier
