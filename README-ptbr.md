@@ -91,3 +91,7 @@ Estou aprendendo programação, graduando-me em Análise e Desenvolvimento de Si
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-xavier-junqueira/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dannxavier.tech@gmail.com)
+
+<div align="right">
+  <a href="./README-ptbr.md" target="_blank">🇧🇷 Leia em Português</a> | <a href="./README.md" target="_blank">🇺🇸 Read in English</a>
+</div>
