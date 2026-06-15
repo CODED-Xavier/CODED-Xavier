@@ -2,8 +2,12 @@
   <a href="./README-ptbr.md">🇧🇷 Leia em Português</a> | <a href="./README.md">🇺🇸 Read in English</a>
 </div>
 
+<div align="right">
+  <a href="./README-ptbr.md">🇧🇷 Leia em Português</a> | <a href="./README.md">🇺🇸 Read in English</a>
+</div>
+
 <div align="center">
-<img width="100%" height="188" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/60868c7a-24f9-44e6-b1fd-94b82ceaf008" />
+  <img src="https://raw.githubusercontent.com/CODED-Xavier/CODED-Xavier/main/Design%20sem%20nome%20(1).png" width="100%">
   <h1>CODED by Xavier</h1>
 </div>
 
