@@ -77,22 +77,6 @@ I am learning programming and currently pursuing a degree in Systems Analysis an
 
 --- 
 
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/api/?username=CODED-Xavier&theme=radical&no-frame=true&no-bg=true" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-  <img src="https://komarev.com/ghpvc/?username=CODED-Xavier&color=blueviolet&style=flat-square" alt="CODED-Xavier" />
-</div>
-
-
 ### ⚡ Fun Facts (Beyond Code)
 
 - 🐈 usually recharge my energy (and find solutions to that annoying bug) by taking a walk or playing with my cat.
