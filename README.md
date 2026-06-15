@@ -4,7 +4,6 @@
 
 <div align="center">
   <img width="1584" height="396" alt="ID VISUAL" src="https://github.com/user-attachments/assets/e0f3e828-e804-44bd-8599-cb7790fd3c98" />
-  <h1>CODED by Xavier</h1>
 </div>
 
 # CODED by Xavier
