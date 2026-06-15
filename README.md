@@ -96,5 +96,5 @@ I am learning programming and currently pursuing a degree in Systems Analysis an
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dannxavier.tech@gmail.com)
 
 <div align="right">
-  <a href="./README.md">🇧🇷 Leia em Português</a> | <a href="./README-en.md">🇺🇸 Read in English</a>
+  <a href="./README-ptbr.md">🇧🇷 Leia em Português</a> | <a href="./README.md">🇺🇸 Read in English</a>
 </div>
