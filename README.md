@@ -1,15 +1,7 @@
 <div align="right">
   <a href="./README-ptbr.md">🇧🇷 Leia em Português</a> | <a href="./README.md">🇺🇸 Read in English</a>
-</div>
+</div><img width="1584" height="396" alt="ID VISUAL" src="https://github.com/user-attachments/assets/e0f3e828-e804-44bd-8599-cb7790fd3c98" />
 
-<div align="right">
-  <a href="./README-ptbr.md">🇧🇷 Leia em Português</a> | <a href="./README.md">🇺🇸 Read in English</a>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/CODED-Xavier/CODED-Xavier/main/Design%20sem%20nome%20(1).png" width="100%">
-  <h1>CODED by Xavier</h1>
-</div>
 
 # CODED by Xavier
 
@@ -18,9 +10,17 @@ I am learning programming and currently pursuing a degree in Systems Analysis an
 ### 🦉 What drives me and what I'm building
 
 - ☕ **Algorithms and Logic in Java:** Repository dedicated to the study of data structures, flow control, and logic challenges, documenting the foundation of my learning and evolution in back-end development.
+
+  
 - 🖥️ **Front-end Development:** Exploring the construction of web interfaces. I am improving my practical skills with HTML, CSS, and JavaScript to bring life and interactivity to the applications I develop.
+
+  
 - 🤖 **Machine Learning:** Starting my studies in machine learning. Combining my analytical side with programming to understand the fundamentals, algorithms, and training of intelligent models.
+
+  
 - 🎲 **RPG Master and Automation:** Enthusiastic creator of VTTRPG automations, especially for FoundryVTT.
+
+  
 - 👾 **Game Dev:** Developing games by combining my passion for RPGs and storytelling, creating living and immersive stories by bringing the worlds I envision in my mind to the screen.
 
 ### 🛠️ My Tech Stack
@@ -96,7 +96,11 @@ I am learning programming and currently pursuing a degree in Systems Analysis an
 ### ⚡ Fun Facts (Beyond Code)
 
 - 🐈 usually recharge my energy (and find solutions to that annoying bug) by taking a walk or playing with my cat.
+
+  
 - 📸 I love taking amateur photos, especially of animals, flowers, and landscapes.
+
+  
 - 🏛️ I enjoy history and art, and I love visiting museums and workshops.
 
 ---
