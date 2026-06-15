@@ -38,6 +38,12 @@ Estou aprendendo programação, graduando-me em Análise e Desenvolvimento de Si
 ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Shotcut](https://img.shields.io/badge/Shotcut-20232A?style=for-the-badge&logo=shotcut&logoColor=white)
 
+### 🚀 DevOps e Ferramentas
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 ### 📊 Minhas Estatísticas
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CODED-Xavier&show_icons=true&theme=radical)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CODED-Xavier&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
