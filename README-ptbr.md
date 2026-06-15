@@ -75,23 +75,6 @@ Estou aprendendo programação, graduando-me em Análise e Desenvolvimento de Si
   </tr>
 </table>
 
---- 
-
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/api/?username=CODED-Xavier&theme=radical&no-frame=true&no-bg=true" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-  <img src="https://komarev.com/ghpvc/?username=CODED-Xavier&color=blueviolet&style=flat-square" alt="CODED-Xavier" />
-</div>
-
 ---
 ### ⚡ Curiosidades (Além do Código)
 
