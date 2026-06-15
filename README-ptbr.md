@@ -4,7 +4,7 @@
 
 <div align="center">
   <img width="1584" height="396" alt="ID VISUAL" src="https://github.com/user-attachments/assets/e0f3e828-e804-44bd-8599-cb7790fd3c98" />
-  <h1>CODED by Xavier</h1>
+  <h1>CODED BY XAVIER</h1>
 </div>
 
 Estou aprendendo programação, graduando-me em Análise e Desenvolvimento de Sistemas. Sou apaixonado por usar a tecnologia para resolver problemas reais e contar boas histórias. Utilizo o conhecimento da minha formação em História para aplicar o lado analítico desenvolvido neste curso para criar soluções inteligentes envolvendo educação, criatividade e inovação. O RPG de mesa é onde essas paixões se encontram: adoro construir mundos imersivos e aplicar programação para ver as engrenagens que eu criei rodarem sozinhas.
@@ -12,9 +12,17 @@ Estou aprendendo programação, graduando-me em Análise e Desenvolvimento de Si
 ### 🦉 O que me move e o que estou construindo
 
 - ☕ **Algoritmos e Lógica em Java:** Repositório dedicado ao estudo de estruturas de dados, controle de fluxo e desafios de lógica, documentando a base do meu aprendizado e evolução em back-end.
+
+  
 - 🖥️ **Desenvolvimento Front-end:** Explorando a construção de interfaces web. Estou aprimorando minhas habilidades na prática com HTML, CSS e JavaScript para dar vida e interatividade às aplicações que desenvolvo.
+
+  
 - 🤖 **Machine Learning:** Iniciando meus estudos em aprendizado de máquina. Unindo meu lado analítico com a programação para entender fundamentos, algoritmos e o treinamento de modelos inteligentes.
+
+  
 - 🎲 **Mestre de RPG e Automação:** Criador entusiasta de automações de VTTRPG, principalmente FoundryVTT.
+
+  
 - 👾 **Game Dev:** Desenvolvo jogos juntando minha paixão por RPG e por storytelling, criando histórias vivas e imersivas transferindo os mundos que crio em minha mente para a tela.
 
 ### 🛠️ Minha Stack de Tecnologias
@@ -88,7 +96,11 @@ Estou aprendendo programação, graduando-me em Análise e Desenvolvimento de Si
 ### ⚡ Curiosidades (Além do Código)
 
 - 🐈 Meus momentos de recarregar as energias (e achar as soluções para aquele bug chato) geralmente acontecem caminhando ou brincando com minha gatinha.
+
+  
 - 📸 Adoro tirar fotos de forma amadora, principalmente de animais, flores e paisagens.
+
+  
 - 🏛️ Gosto de história e arte, amo visitar museus e oficinas.
 
 ---
