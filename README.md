@@ -44,8 +44,50 @@ I am learning programming and currently pursuing a degree in Systems Analysis an
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📊 My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CODED-Xavier&show_icons=true&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CODED-Xavier&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=CODED-Xavier&theme=radical&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODED-Xavier&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Top Languages"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=CODED-Xavier&theme=radical&hide_border=false"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+</table>
+
+--- 
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Trophy">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/api?username=CODED-Xavier&column=8&theme=radical&no-frame=true&no-bg=true" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+  <br />
+  <img src="https://profile-counter.glitch.me/CODED-Xavier/count.svg" alt="Profile Visitor Count" />
+</div>
 
 ### ⚡ Fun Facts (Beyond Code)
 
