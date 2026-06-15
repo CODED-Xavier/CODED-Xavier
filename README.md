@@ -40,6 +40,7 @@ I am learning programming and currently pursuing a degree in Systems Analysis an
 
 ### 📊 My Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CODED-Xavier&show_icons=true&theme=radical)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⚡ Fun Facts (Beyond Code)
 
