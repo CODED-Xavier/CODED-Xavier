@@ -7,8 +7,6 @@
   <h1>CODED by Xavier</h1>
 </div>
 
-# CODED by Xavier
-
 Estou aprendendo programação, graduando-me em Análise e Desenvolvimento de Sistemas. Sou apaixonado por usar a tecnologia para resolver problemas reais e contar boas histórias. Utilizo o conhecimento da minha formação em História para aplicar o lado analítico desenvolvido neste curso para criar soluções inteligentes envolvendo educação, criatividade e inovação. O RPG de mesa é onde essas paixões se encontram: adoro construir mundos imersivos e aplicar programação para ver as engrenagens que eu criei rodarem sozinhas.
 
 ### 🦉 O que me move e o que estou construindo
