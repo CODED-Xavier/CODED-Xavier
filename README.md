@@ -4,10 +4,8 @@
 
 <div align="center">
   <img width="1584" height="396" alt="ID VISUAL" src="https://github.com/user-attachments/assets/e0f3e828-e804-44bd-8599-cb7790fd3c98" />
-    <h1>CODED by Xavier</h1>
+    <h1>CODED BY XAVIER</h1>
 </div>
-
-# CODED by Xavier
 
 I am learning programming and currently pursuing a degree in Systems Analysis and Development. I am passionate about using technology to solve real-world problems and tell good stories. I use the knowledge from my background in History to apply the analytical skills developed in my current studies to create smart solutions involving education, creativity, and innovation. Tabletop RPG is where these passions meet: I love building immersive worlds and applying programming to see the gears I created run on their own.
 
