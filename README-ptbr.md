@@ -52,7 +52,7 @@ Estou aprendendo programação, graduando-me em Análise e Desenvolvimento de Si
 - 🏛️ Gosto de história e arte, amo visitar museus e oficinas.
 
 ---
-📫 **Como me encontrar:** 
+### 📫 Como me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-xavier-junqueira/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dannxavier.tech@gmail.com)
