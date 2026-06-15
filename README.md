@@ -38,7 +38,7 @@ I am learning programming and currently pursuing a degree in Systems Analysis an
 ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Shotcut](https://img.shields.io/badge/Shotcut-20232A?style=for-the-badge&logo=shotcut&logoColor=white)
 
-### 🚀 DevOps e Ferramentas
+**DevOps and Tools:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
