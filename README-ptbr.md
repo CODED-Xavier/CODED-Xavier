@@ -30,15 +30,13 @@ Estou aprendendo programação, graduando-me em Análise e Desenvolvimento de Si
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**Game Dev:**
+**Game Dev & Bancos de Dados:**
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-282C34?style=for-the-badge&logo=python&logoColor=white)
-
-**Bancos de Dados & Edição:**
 ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Shotcut](https://img.shields.io/badge/Shotcut-20232A?style=for-the-badge&logo=shotcut&logoColor=white)
 
-### 🚀 DevOps e Ferramentas
+**DevOps e Ferramentas:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
@@ -47,7 +45,6 @@ Estou aprendendo programação, graduando-me em Análise e Desenvolvimento de Si
 ### 📊 Minhas Estatísticas
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CODED-Xavier&show_icons=true&theme=radical)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CODED-Xavier&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ### ⚡ Curiosidades (Além do Código)
 
 - 🐈 Meus momentos de recarregar as energias (e achar as soluções para aquele bug chato) geralmente acontecem caminhando ou brincando com minha gatinha.
