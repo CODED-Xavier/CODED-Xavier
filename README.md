@@ -1,3 +1,4 @@
+<img width="475" height="188" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/60868c7a-24f9-44e6-b1fd-94b82ceaf008" />
 <div align="right">
   <a href="./README-ptbr.md">🇧🇷 Leia em Português</a> | <a href="./README.md">🇺🇸 Read in English</a>
 </div>
