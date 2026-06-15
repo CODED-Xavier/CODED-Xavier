@@ -2,11 +2,6 @@
   <a href="./README-ptbr.md">🇧🇷 Leia em Português</a> | <a href="./README.md">🇺🇸 Read in English</a>
 </div>
 
-<div align="right">
-  <a href="./README-ptbr.md">🇧🇷 Leia em Português</a> | <a href="./README.md">🇺🇸 Read in English</a>
-</div>
-
-
 # CODED by Xavier
 
 I am learning programming and currently pursuing a degree in Systems Analysis and Development. I am passionate about using technology to solve real-world problems and tell good stories. I use the knowledge from my background in History to apply the analytical skills developed in my current studies to create smart solutions involving education, creativity, and innovation. Tabletop RPG is where these passions meet: I love building immersive worlds and applying programming to see the gears I created run on their own.
